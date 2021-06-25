@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @vaibhavsaigandi
-- 👀 I’m interested in Web Develpment
+- 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Angular,React.
+- I have worked in few Angular and JS projects that are live and running now
 - 📫 You can reach me on vaibhavsaigandi@gamil.com.
 
 <!---
