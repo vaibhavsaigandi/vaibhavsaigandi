@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @vaibhavsaigandi
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Angular,React.
-- I have worked in few Angular and JS projects that are live and running now
-- 📫 You can reach me on vaibhavsaigandi@gamil.com.
+- 🌱 I’m currently learning Full Stack Development and UI/UX Design / Developement
+- I have worked in on MERN/MEAN and JS projects that are live and running now
+- 📫 You can reach me on vaibhavsaigandi@gamil.com
 
 <!---
 vaibhavsaigandi/vaibhavsaigandi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
