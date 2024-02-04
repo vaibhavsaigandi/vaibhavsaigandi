@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vaibhavsaigandi
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Full Stack Development and UI/UX Design / Developement
+- 🌱 I’m currently working on Full Stack Development and UI/UX Design / Developement
 - I have worked in on MERN/MEAN and JS projects that are live and running now
 - 📫 You can reach me on vaibhavsaigandi@gmail.com
 
